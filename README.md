@@ -12,3 +12,11 @@ Repositori Jarkom Modul 5 kelompok E06
 3. Naily Khairiya 5025201244
 </p>
 </details>
+## SOAL
+### A. Membuat topologi jaringan sesuai dengan rancangan
+![image](https://user-images.githubusercontent.com/92420947/206388562-bdb3a339-5508-4506-9198-d62431bf82b6.png)
+### A. Membuat topologi jaringan sesuai dengan rancangan
+### A. Membuat topologi jaringan sesuai dengan rancangan
+### A. Membuat topologi jaringan sesuai dengan rancangan
+### A. Membuat topologi jaringan sesuai dengan rancangan
+### A. Membuat topologi jaringan sesuai dengan rancangan
