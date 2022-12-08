@@ -18,18 +18,19 @@ semua aturan iptables harus disimpan pada sistem atau paling tidak kalian menyed
 
 ### A. Membuat topologi jaringan sesuai dengan rancangan
 ![image](https://user-images.githubusercontent.com/92420947/206388562-bdb3a339-5508-4506-9198-d62431bf82b6.png)
-<details><summaryDetails(click to show)</summary>
+<details><summary>Details(click to show)</summary>
 
 ### Keterangan :	
-    - Eden adalah DNS Server
-    - WISE adalah DHCP Server
-		- Garden dan SSS adalah Web Server
-		- Jumlah Host pada Forger adalah 62 host
-		- Jumlah Host pada Desmond adalah 700 host
-		- Jumlah Host pada Blackbell adalah 255 host
-		- Jumlah Host pada Briar adalah 200 host
+- Eden adalah DNS Server
+- WISE adalah DHCP Server
+- Garden dan SSS adalah Web Server
+- Jumlah Host pada Forger adalah 62 host
+- Jumlah Host pada Desmond adalah 700 host
+- Jumlah Host pada Blackbell adalah 255 host
+- Jumlah Host pada Briar adalah 200 host
 
 </details>
+
 ### B. Untuk menjaga perdamaian dunia, Loid ingin meminta kalian untuk membuat topologi tersebut menggunakan teknik CIDR atau VLSM setelah melakukan subnetting.
 
 ### C. Anya, putri pertama Loid, juga berpesan kepada anda agar melakukan Routing agar setiap perangkat pada jaringan tersebut dapat terhubung.
