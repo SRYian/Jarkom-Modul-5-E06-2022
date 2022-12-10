@@ -33,17 +33,21 @@ semua aturan iptables harus disimpan pada sistem atau paling tidak kalian menyed
 
 ### B. Untuk menjaga perdamaian dunia, Loid ingin meminta kalian untuk membuat topologi tersebut menggunakan teknik CIDR atau VLSM setelah melakukan subnetting.
 Kelompok kami menggunakan teknik VLSM.
+
 <img width="525" alt="image" src="https://user-images.githubusercontent.com/72675854/206854142-c5bf133f-5d9d-44d2-8cd8-b30ab310873a.png">
 
 Didapatkan,
+
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/72675854/206854177-8ace4cca-f76c-4175-9bf8-58a33196e2a8.png">
 
 
 Kemudian dibuat tree sebagai berikut,
+
 ![image](https://user-images.githubusercontent.com/72675854/206854223-dd18d382-ab8e-48f7-8b61-10fa94cc8414.png)
 
 
 Sehingga didapatkan pembagian IP sebagai berikut,
+
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/72675854/206854239-8b41c3d7-4f13-4c18-ac2f-1ab5f42dc532.png">
 
 
